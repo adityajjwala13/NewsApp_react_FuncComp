@@ -1,0 +1,16 @@
+.news{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.container h1{
+    text-align: center;
+    background-color: red;
+    margin: 25px;
+}
+
+.prevNxt{
+    display: flex;
+    justify-content: space-between;
+}
