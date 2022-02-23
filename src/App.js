@@ -8,10 +8,7 @@ const App = () => {
   let pageSize = 6;
   let country = "in";
   let apiKey = "afb67355753046fb8e0c50fd748c2c2b";
-  // apiKey = process.env.REACT_APP_NEWS_API;
-  // "79391c0b931049109e07935e996eac31"
-  // "3adffe9fa4234feb9247592c5a64cb86"
-  // "d13f02e475ca4e8fb8677b759f7d5a2d"
+
   const [progress, setProgress] = useState(0);
 
     return (
